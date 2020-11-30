@@ -26,11 +26,8 @@
 
 -🗡 I'm a Front-end Developer from South Africa💚.
 -🌱 I’m currently learning Reactjs,React-Native,javascript.
--📫 **Looking for a job, hit me up!**.
--🤔  If you want to talk I speak English, Protuguese  and <CODE> .
-
-
-
+- 📫 **Looking for a job, hit me up!**.
+-🤔If you want to talk I speak English, Protuguese  and <CODE> .
 
 **Languages and Tools:**  
 
