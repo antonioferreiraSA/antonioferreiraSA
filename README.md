@@ -22,12 +22,12 @@
 ---
 
 - Hi, I'm Antonio, but you can call me **Toni**. 
-- **A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player** 🎮 and **Mr Robot** 🗡 fan.
+- **A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player**.
 
--🗡 I'm a Front-end Developer from South Africa💚.
--🌱 I’m currently learning Reactjs,React-Native,javascript.
+- I'm a Front-end Developer from South Africa💚.
+- I’m currently learning Reactjs,React-Native,javascript.
 - 📫 **Looking for a job, hit me up!**.
-- 🤔If you want to talk I speak English, Protuguese  and <CODE> .
+- 🤔If you want to talk I speak English, Protuguese  and **CODE** .
 
 **Languages and Tools:**  
 
