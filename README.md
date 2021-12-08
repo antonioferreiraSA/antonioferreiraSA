@@ -25,7 +25,7 @@
 - **A book lover** 📕, **an aspiring musician** 🎸 and a good **video-game player**.
 
 - I'm a Software Engineer from South Africa💚.
-- I’m currently learning Reactjs,React-Native,javascript.
+- I’m Graphql and Typescript.
 - 📫 **Looking for a job, hit me up!**.
 - 🤔If you want to talk I speak English, Protuguese  and **CODE** .
 **Languages and Tools:**  
